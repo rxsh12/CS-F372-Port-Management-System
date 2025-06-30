@@ -27,13 +27,6 @@ A C-based simulation of a real-time port scheduling system that manages docking,
 - **Platform:** Ubuntu 22.04 / 24.04 LTS
 - **Compiler:** GCC
 
-## 📁 Project Structure
-├── scheduler.c # Main scheduler logic
-├── scheduler.out # Compiled scheduler binary
-├── validation.out # Provided binary to test correctness
-├── testcase_X/ # Input folder for test case X
-│ └── input.txt # Contains dock and solver details
-
 ## 🚀 How to Run
 
 ### Step 1: Compile
